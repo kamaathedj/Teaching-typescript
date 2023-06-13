@@ -1,0 +1,13 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "propeller project",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "run":"node ./dist/index.js",
+    "dev": "tsc && node ./dist/index.js"
+  },
+  "author": "david kamau",
+  "license": "ISC"
+}
